@@ -1,3 +1,6 @@
+# Migrated to Rocketman Command Center
+We have migrated this bash script to Rocketman Command Center - visit https://github.com/Rocketman-Tech/rcc/wiki/Self-Service-Email for more information.
+
 # Self Service Email Form
 Allows users to easily create an email through Self Service allowing you to customize the Subject, Recipients, and Body.
 
